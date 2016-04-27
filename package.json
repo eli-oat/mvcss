@@ -1,7 +1,8 @@
 {
   "name": "mvcss",
-  "version": "2.0.0",
+  "version": "2.0.2",
   "description": "Minimal Viable CSS (to keep something readable and über fast)",
+  "style": "mvcss.css",
   "main": "mvcss.css",
   "scripts": {
     "test": "none"
@@ -11,14 +12,19 @@
     "url": "https://gogs.eli.li/eli_oat/mvcss.git"
   },
   "keywords": [
-    "minimal",
-    "css",
-    "fast",
-    "umbrella",
-    "banana",
-    "burrito",
-    "adventure",
-    "hello"
+    "once",
+    "upon",
+    "a",
+    "time",
+    "there",
+    "was",
+    "a",
+	"magical",
+	"walrus",
+	"and",
+	"it",
+	"loved",
+	"adventures"
   ],
   "author": "@eli_oat",
   "license": "MIT"
