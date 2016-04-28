@@ -9,7 +9,7 @@ Simple as simple can be! Include the stylesheet in one of two ways...
 With this handy CDN link:
 
 ```
-<link rel="stylesheet" href="https://npmcdn.com/mvcss@3.0.1/mvcss.min.css" type="text/css" media="screen">
+<link rel="stylesheet" href="https://npmcdn.com/mvcss/mvcss.min.css" type="text/css" media="screen">
 ```
 
 Or just paste the code into the head of your HTML document between `<style> ... </style>` tags. 
