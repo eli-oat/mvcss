@@ -22,7 +22,7 @@ MVCSS is a snippet of CSS that makes a bland HTML document a bit more readable a
 
 ## Why is this an NPM package? 
 
-Frankly, there isn't a great reason why. It isn't JS, and I almost never write JS, but I hadn't ever made an NPM package and I thought this would be a good, low-stress way to try it out. Using [NPMCDN](https://npmcdn.com) the package can be easily included on the fly, but, really, you oughtn't do that becuase this is so teeny-tiny you might as well include the whole kit-and-kaboodle in the head of your HTML and not bother with making an extra call. 
+Frankly, there isn't a great reason why. It isn't JS, and I almost never write JS, but I hadn't ever made an NPM package and I thought this would be a good, low-stress way to try it out. Using [NPMCDN](https://npmcdn.com) the package can be easily included on the fly, but, really, you oughtn't do that because this is so teeny-tiny you might as well include the whole kit-and-kaboodle in the head of your HTML and not bother with making an extra call. 
 
 
 [![NPM](https://nodei.co/npm/mvcss.png)](https://npmjs.org/package/mvcss)
