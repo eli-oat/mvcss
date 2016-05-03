@@ -1,6 +1,6 @@
 # MVCSS
 
-Minimal Viable CSS (keeps HTML readable and speedy)
+Minimal Viable CSS (keeps HTML readable and speedy). 
 
 ## How to use MVCSS
 
@@ -12,7 +12,14 @@ With this handy CDN link:
 <link rel="stylesheet" href="https://npmcdn.com/mvcss/mvcss.min.css" type="text/css" media="screen">
 ```
 
-Or just paste the code into the head of your HTML document between `<style> ... </style>` tags. 
+Or just paste the code into the head of your HTML document between `<style> ... </style>` tags.
+
+## See some examples
+
+MVCSS in the wild! 
+
+- [Here is this very README document!](https://ns-jywwwjlmzy.now.sh)
+- [*Villette*, by the best of the Brontës (look out for the best sentence in the whole book:"Happiness is not a potato...")](https://smallandnearlysilent.com/villette/)
 
 ## Hold your horses... 🐴
 
