@@ -5,7 +5,7 @@
 	"style": "mvcss.css",
 	"main": "mvcss.css",
 	"scripts": {
-		"start": "echo go go gadget MVCSS"
+		"start": "echo go go gadget MVCSS",
 		"test": "echo this is just CSS"
 	},
 	"repository": {
