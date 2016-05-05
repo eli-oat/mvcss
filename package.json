@@ -1,7 +1,7 @@
 {
   "name": "mvcss",
-  "version": "3.5.0",
-  "description": "Minimal Viable CSS (keeps HTML readable and über fast)",
+  "version": "3.5.1",
+  "description": "Minimal Viable CSS (keeps HTML readable and speedy)",
   "style": "mvcss.css",
   "main": "mvcss.css",
   "scripts": {
