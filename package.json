@@ -1,23 +1,29 @@
 {
-  "name": "mvcss",
-  "version": "3.5.1",
-  "description": "Minimal Viable CSS (keeps HTML readable and speedy)",
-  "style": "mvcss.css",
-  "main": "mvcss.css",
-  "scripts": {
-    "test": "none"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://gogs.eli.li/eli_oat/mvcss.git"
-  },
-  "keywords": [
-	  "CSS",
-	  "minimal",
-	  "responsive",
-	  "fast",
-	  "horses"
-  ],
-  "author": "@eli_oat",
-  "license": "MIT"
+	"name": "mvcss",
+	"version": "3.5.2",
+	"description": "Minimal Viable CSS (keeps HTML readable and speedy)",
+	"style": "mvcss.css",
+	"main": "mvcss.css",
+	"scripts": {
+		"start": "echo go go gadget MVCSS"
+		"test": "echo this is just CSS"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/eli-oat/mvcss.git"
+	},
+	"bugs": {
+		"url": "https://github.com/eli-oat/mvcss/issues"
+	},
+	"homepage": "https://gogs.eli.li/eli_oat/mvcss",
+	"author": "@eli_oat <email_princess@smallandnearlysilent.com> (https://eli.li)",
+	"license": "MIT",
+	"keywords": [
+		"CSS",
+		"minimal",
+		"responsive",
+		"fast",
+		"performance",
+		"horses"
+	]
 }
