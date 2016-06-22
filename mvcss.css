@@ -9,7 +9,7 @@
 
 body {
   max-width: 46em;
-  font-size: 1em;
+  font-size: 1.2em;
   font-family: -apple-system, 'avenir next', avenir, roboto, noto, 'helvetica neue', helvetica, ubuntu, 'franklin gothic medium', 'century gothic', sans-serif;
   line-height: 1.7em;
   padding: 1em;
@@ -29,12 +29,16 @@ img, canvas, iframe, video, svg, select, textarea {
 /* === FORMS, ETC. === */
 
 label {
-	font-weight: bold;
+	font-weight: bold
 }
 
-input, select, textarea {
+select, textarea {
 	min-width: 100%;
 	margin-bottom: 1em
+}
+
+input[type="text"] {
+    min-width: 80%
 }
 
 input, textarea {
