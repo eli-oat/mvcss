@@ -9,7 +9,7 @@ Simple as simple can be! Include the stylesheet in one of two ways...
 With this handy CDN link:
 
 ```
-<link rel="stylesheet" href="https://npmcdn.com/mvcss/mvcss.min.css" type="text/css" media="screen">
+<link rel="stylesheet" href="https://unpkg.com/mvcss/mvcss.min.css" type="text/css" media="screen">
 ```
 
 Or just paste the code into the head of your HTML document between `<style>` ... `</style>` tags.
@@ -29,7 +29,7 @@ MVCSS is a snippet of CSS (not a CSS "framework") that makes a bland HTML docume
 
 ## Why is this an NPM package? 
 
-Frankly, there isn't a great reason why. It isn't JS, and I almost never write JS, but I hadn't ever made an NPM package and I thought this would be a good, low-stress way to try it out. Using [NPMCDN](https://npmcdn.com) the package can be easily included on the fly, but, really, you oughtn't do that because this is so teeny-tiny (558 bytes, 343 minified) you might as well include the whole kit-and-kaboodle in the head of your HTML and not bother with making an extra call. 
+Frankly, there isn't a great reason why. It isn't JS, and I almost never write JS, but I hadn't ever made an NPM package and I thought this would be a good, low-stress way to try it out. Using [NPMCDN](https://unpkg.com) the package can be easily included on the fly, but, really, you oughtn't do that because this is so teeny-tiny (558 bytes, 343 minified) you might as well include the whole kit-and-kaboodle in the head of your HTML and not bother with making an extra call. 
 
 This entire endeavor is an effort in over engineering…
 
